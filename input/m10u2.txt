@@ -54,7 +54,7 @@ fortune-telling
 shabby
 thief
 rob
-collsion
+collision
 norway
 switzerland
 gay
