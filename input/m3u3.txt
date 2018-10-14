@@ -4,7 +4,7 @@ found
 bc
 roman
 take over
-voncano
+volcano
 ad
 erupt
 lava
@@ -38,8 +38,8 @@ extreme
 complain
 bone
 wooden
-laeather
-hhistorical
+leather
+historical
 solution
 expression
 audience
@@ -74,7 +74,7 @@ vast
 philosophy
 salary
 aware
-baisis
+basis
 court
 god
 corrupt

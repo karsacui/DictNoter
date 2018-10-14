@@ -48,7 +48,7 @@ character
 bark
 racial
 gentle
-embarass
+embarrass
 backwards
 conclusion
 custom
@@ -69,7 +69,7 @@ simply
 as a whole
 combine
 distinguish
-indicatethus
+indicate
 shortcoming
 ink
 eyesight
