@@ -43,6 +43,7 @@ self-confident
 artist
 realistic
 greengrocer
+tailor
 investigative
 pianist
 violinist
