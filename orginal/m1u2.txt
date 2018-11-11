@@ -13,7 +13,7 @@ sink
 garbage can
 adult
 tolerate
-behaviour
+behavior
 teenager
 fault
 scene
@@ -30,7 +30,7 @@ now that
 rude
 sigh
 bicycle
-hard-working
+hardworking
 stay up
 handle
 error
@@ -43,7 +43,7 @@ DVD
 cafe
 internet cafe
 chat
-present
+at present
 argument
 freedom
 worried

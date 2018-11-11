@@ -48,7 +48,7 @@ ceremony
 republic
 chairman
 pearl
-harbour
+harbor
 navy
 powerful
 airfield

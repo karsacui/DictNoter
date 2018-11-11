@@ -14,7 +14,7 @@ via
 postpone
 tunnel
 section
-link
+link up
 interval
 at intervals
 choke

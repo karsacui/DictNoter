@@ -10,7 +10,7 @@ apart from
 mat
 specialist
 severe
-spirit
+in good spirits
 appreciation
 sorrow
 accomplish
@@ -59,4 +59,4 @@ instant
 maximum
 minimum
 mature
-motivate
+motivation

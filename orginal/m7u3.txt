@@ -7,7 +7,7 @@ command
 at someone's command
 claim
 assumption
-statistic
+statistics
 bond
 diverse
 what is more

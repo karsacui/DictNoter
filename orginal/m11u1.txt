@@ -13,7 +13,7 @@ waiter
 grocer
 option
 lawyer
-well paid
+well-paid
 canyon
 zone
 brewery

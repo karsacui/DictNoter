@@ -1,7 +1,7 @@
 clone
 embryo
 tissue
-toy
+toy with
 real-life
 monster
 exact
@@ -19,7 +19,7 @@ physician
 goat
 consequence
 harvest
-sale
+for sale
 transform
 concept
 crime
