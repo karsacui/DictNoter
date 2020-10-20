@@ -8,3 +8,6 @@ If you are not a Chinese speaker use a translator.<br>
 ### 已知bug
 部分词条无法全部复制，可能和正则表达式有关。
 [详情](https://github.com/karsacui/DictNoter/issues/1)
+
+### Why Archiving
+cuz the code is old, sh\*\*ty and have no reusability
